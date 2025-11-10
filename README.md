@@ -7,5 +7,5 @@ Em aprimoramento contínuo, estou finalizando a **Pós-Graduação em Engenharia
 ### 🛠️ Minha Stack (Tecnologias)
 - **Backend:** PHP, Laravel, Go (aprendendo)
 - **Banco de Dados:** MySQL, PostgreSQL
-- **Frameworks Legados:** Adiant Framework
+- **Frameworks Legados:** Adiant Framework, Core Igniter
 - **Sistema Operacional:** Linux (Desde as primeiras versões do Ubuntu)
